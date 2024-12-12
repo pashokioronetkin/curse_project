@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1733608514 source:c:\users\user\desktop\currency (1)\currency\func.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<Windows.h>
+	"func.h"
+	"exchange.h"
+	"manager.h"
+
+1733608205 c:\users\user\desktop\currency (1)\currency\func.h
+	"exchange.h"
+	"manager.h"
+
+1733437676 c:\users\user\desktop\currency (1)\currency\exchange.h
+	"date.h"
+
+1733435857 c:\users\user\desktop\currency (1)\currency\date.h
+
+1733437682 c:\users\user\desktop\currency (1)\currency\manager.h
+
+1734020940 source:c:\users\user\desktop\currency (1)\currency\main.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	<Windows.h>
+	"func.h"
+	"exchange.h"
+	"manager.h"
+
